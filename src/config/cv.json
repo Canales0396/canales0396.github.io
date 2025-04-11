@@ -1,45 +1,63 @@
 {
     "basic": {
         "name": "Eduardo Canales",
-        "job": "MSc. en Economía y Finanzad | Analista de Proyectos e Investigador de Mercados",
-        "summary": "Especialista en análisis de datos, modelos econométricos y estudios de investigacioón de mercado con más de 4 años de experiencia en el área. Apasionado por transformar datos en decisiones estratégicas.",
+        "job": "Analista de Proyectos | MSc. en Economía y Finanzas | Egresado de MSc. en Estadística Matemática",
+        "summary":"Apasionado por transformar datos en decisiones estratégicas, con experiencia en estudios de investigación de mercado, modelos econométricos y análisis estadístico. Cuento con una sólida formación en economía, finanzas y estadística aplicada, lo que me permite aportar soluciones técnicas orientadas a resultados reales.",
         "cv_file_name": "CV_Eduardo_Canales.pdf"
     },
     "experiences": [
-        {
-            "title": "Senior Software Engineer",
-            "sub_title": "Tech Solutions Inc.",
-            "years": "2021 - Present",
-            "details": "Led the development of a scalable e-commerce platform that increased sales by 30%. Worked with modern technologies including React, Node.js, and AWS."
-        },
-        {
-            "title": "Software Engineer",
-            "sub_title": "Innovate Labs",
-            "years": "2018 - 2021",
-            "details": "Developed and maintained web applications for various clients. Key contributor in migrating legacy systems to cloud infrastructure."
-        },
-        {
-            "title": "Junior Developer",
-            "sub_title": "Creative Apps Studio",
-            "years": "2015 - 2018",
-            "details": "Worked on mobile app development, collaborating with design teams to create user-friendly applications."
-        }
-    ],
-    "education": [
-        {
-            "title": "Bachelor of Science in Computer Science",
-            "sub_title": "University of Modern Tech",
-            "years": "2015 - 2019",
-            "details": "Graduated with honors. Specialized in software development, data structures, and algorithms. Worked on various open-source projects and completed internships in tech companies."
-        },
-        {
-            "title": "Master of Science in Software Engineering",
-            "sub_title": "Global Tech Institute",
-            "years": "2019 - 2021",
-            "details": "Focused on advanced algorithms, cloud computing, and full-stack development. Published research papers on scalable microservices architecture."
-        }
-    ],
-    "projects": [
+  {
+    "title": "Analista de Proyectos",
+    "sub_title": "Marketing Total",
+    "years": "Febrero 2023 - Actualidad",
+    "details": "Administración de bases de datos, programación de instrumentos, análisis estadísticos y visualización de datos para estudios de mercado. Desarrollo de dashboards, reportes en línea, estudios sindicados y ADOC."
+  },
+  {
+    "title": "Analista de Datos",
+    "sub_title": "Insight Marketing Research & Intelligence",
+    "years": "Febrero 2022 - Julio 2022",
+    "details": "Manejo de bases de datos, procesamiento de encuestas y análisis con SPSS y R Studio. Coordinación de procesos de digitalización, tabulación y control de calidad de datos."
+  },
+  {
+    "title": "Pasantía Docente (Análisis Numérico y Matemática I)",
+    "sub_title": "UNAH, Departamento de Matemáticas",
+    "years": "Septiembre 2020 - Mayo 2021",
+    "details": "Impartición de clases, desarrollo de material académico y banco de preguntas para evaluaciones. Evaluación de tareas y exámenes en modalidad digital."
+  },
+  {
+    "title": "Enlace Estadístico",
+    "sub_title": "Secretaría de Desarrollo e Inclusión Social",
+    "years": "Junio 2019 - Octubre 2021",
+    "details": "Elaboración de informes estadísticos, supervisión de procesamiento de datos a nivel nacional y coordinación de personal de digitalización."
+  },
+  {
+    "title": "Auxiliar Administrativo",
+    "sub_title": "Asociación Desarrollemos Honduras",
+    "years": "Enero 2018 - Diciembre 2018",
+    "details": "Gestión de compras, pagos, órdenes y control de inventario. Elaboración de planillas y manejo de suministros."
+  }
+],
+"education": [
+  {
+    "title": "Máster en Economía y Finanzas",
+    "sub_title": "UNICAH",
+    "years": "2021 - 2024",
+    "details": "Formación integral en finanzas corporativas, econometría, macroeconomía y análisis financiero aplicado."
+  },
+  {
+    "title": "Egresado de Maestría en Estadística Matemática",
+    "sub_title": "UNAH",
+    "years": "2022 - Presente",
+    "details": "Enfocado en modelos probabilísticos, inferencia bayesiana, análisis multivariado y series de tiempo."
+  },
+  {
+    "title": "Licenciatura en Matemáticas",
+    "sub_title": "UNAH",
+    "years": "2014 - 2021",
+    "details": "Especialización en matemática aplicada, ingeniería matemática y docencia universitaria."
+  }
+],
+"projects": [
         {
             "imageUrl": "https://images.unsplash.com/photo-1487017159836-4e23ece2e4cf?q=80&w=764&auto=format&fit=crop",
             "title": "hello.com",
