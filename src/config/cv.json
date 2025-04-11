@@ -77,7 +77,7 @@
             "link": "https://github.com/wasutz/astro-resume-theme"
         }
     ],
-    "menuItems": [
+     "menuItems": [
         {
             "name": "About",
             "link": "/"
@@ -89,16 +89,16 @@
     ],
     "socialLinks": [
         {
-    "iconName": "Github",
-    "link": "https://github.com/canales0396"
-  },
-  {
-    "iconName": "Linkedin",
-    "link": "https://www.linkedin.com/in/canales-88143a221"
-  },
-  {
-    "iconName": "Mail",
-    "link": "mailto:edusalo03@hotmail.com"
-  }
+            "iconName": "Github",
+            "link": "https://canales0396.github.io/"
+        },
+        {
+            "iconName": "Facebook",
+            "link": "https://facebook.com"
+        },
+        {
+            "iconName": "Instagram",
+            "link": "https://instagram.com"
+        }
     ]
 }
